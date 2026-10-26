@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="StudyTrack. Plan with intention. Learn with consistency.">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#211F3C"/><stop offset="1" stop-color="#4A3E86"/></linearGradient>
+    <linearGradient id="bar" x2="1"><stop stop-color="#A5A0FF"/><stop offset="1" stop-color="#79E3D0"/></linearGradient>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+  <circle cx="1230" cy="30" r="230" fill="#FFFFFF" opacity=".025"/>
+  <circle cx="1200" cy="70" r="160" fill="#FFFFFF" opacity=".035"/>
+  <text x="64" y="76" fill="#B9B3FD" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="5">YOUR LEARNING WORKSPACE</text>
+  <text x="60" y="170" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-3">StudyTrack</text>
+  <text x="64" y="220" fill="#D9D5EE" font-family="Arial,sans-serif" font-size="23">Plan with intention. Learn with consistency.</text>
+  <text x="64" y="298" fill="#ABA4CB" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">PYTHON  /  STREAMLIT  /  SQLITE  /  PLOTLY</text>
+  <rect x="855" y="75" width="330" height="216" rx="20" fill="#FFFFFF" opacity=".08" stroke="#FFFFFF" stroke-opacity=".12"/>
+  <text x="882" y="112" fill="#D9D5EE" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">SMALL STEPS. VISIBLE PROGRESS.</text>
+  <rect x="885" y="227" width="26" height="34" rx="6" fill="#938CEE"/>
+  <rect x="926" y="199" width="26" height="62" rx="6" fill="#938CEE"/>
+  <rect x="967" y="214" width="26" height="47" rx="6" fill="#938CEE"/>
+  <rect x="1008" y="171" width="26" height="90" rx="6" fill="#AAA4FF"/>
+  <rect x="1049" y="181" width="26" height="80" rx="6" fill="#AAA4FF"/>
+  <rect x="1090" y="151" width="26" height="110" rx="6" fill="#79E3D0"/>
+  <rect x="1131" y="135" width="26" height="126" rx="6" fill="#79E3D0"/>
+</svg>
